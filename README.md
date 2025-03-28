@@ -1,2 +1,2 @@
 # Soft Library
- This is A Soft Library, Contains Books and other materials for reading and reference
+This repository serves as a comprehensive digital library, providing access to a diverse collection of books and other reference materials. The Soft Library is designed to support readers, researchers, and learners by offering resources that cater to various interests and academic disciplines. Whether for personal enrichment or scholarly purposes, this repository aims to be a valuable source of information and inspiration.
